@@ -1,0 +1,14 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "this is a sample desktop app in electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "puneeth naik",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^2.0.5"
+  }
+}
